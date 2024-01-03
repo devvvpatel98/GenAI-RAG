@@ -1,8 +1,8 @@
-# DukeGenAI-Team9: OnBoard Express
+# DukeGenAI - RAG: Enterprise CodeBuddy 
 
 ## Overview
 
-Welcome to **OnBoard Express** by **Gen AI Team 9** – a revolutionary tool designed to streamline the onboarding process in tech environments. Imagine a world where new employees don't have to spend weeks getting acquainted with your codebase or workflow. Picture a scenario where product managers receive instant briefings on major changes without waiting for developer input. Envision technical support resolving client issues swiftly without always relying on engineering feedback.
+Welcome to **Enterprise CodeBuddy** by **Gen AI Team 9** – a revolutionary tool designed to streamline the onboarding process in tech environments. Imagine a world where new employees don't have to spend weeks getting acquainted with your codebase or workflow. Picture a scenario where product managers receive instant briefings on major changes without waiting for developer input. Envision technical support resolving client issues swiftly without always relying on engineering feedback.
 
 OnBoard Express is here to turn these imaginations into reality.
 
@@ -25,8 +25,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-repo/DukeGenAI-Team9.git
-   cd DukeGenAI-Team9
+   git clone https://github.com/your-repo/GenAI-RAG.git
+   cd GenAI-RAG
    ```
 
 2. Install the required packages:
@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
    ```
 ### Running the Application
 
-Launch OnBoard Express with the following command:
+Launch Enterprise CodeBuddy with the following command:
 
  ```bash
    streamlit run app.py
@@ -44,7 +44,7 @@ Launch OnBoard Express with the following command:
 
 ## Contributions
 
-This project was developed as part of an Hackthon (DukeGenAI initiative). Contributions were made solely by Koushik Annareddy Sreenath, Dev Patel, Medha & Sushanth R.
+This project was developed as part of an Hackthon (DukeGenAI initiative). Contributions were made solely by Dev Patel, Koushik Annareddy Sreenath, Medha & Sushanth R.
 
 ## Acknowledgments
 Special thanks to the DukeGenAI initiative for their support and guidance.
